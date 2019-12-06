@@ -1,13 +1,14 @@
 文章简介：
 1. 文章标题：NED:An Inter-Graph Node Metric Based on Edit Distance
-1. [文章来源](https://arxiv.org/pdf/1602.02358.pdf)：[VLDB 2017](http://zhuhaohan.com/Research/NED/p573-zhu.pdf)
-2. 作者：
-2.1.  [朱浩瀚](http://zhuhaohan.com)（苹果公司）、
-2.2.  Xianrui Meng(Apple Inc)
-2.3.  George Killoos(Boston University)
-3.[Git项目地址](https://github.com/zhuhaohan/NED)
+2. [文章来源](https://arxiv.org/pdf/1602.02358.pdf)：[VLDB 2017](http://zhuhaohan.com/Research/NED/p573-zhu.pdf)
 
-@[TOC]
+3. 作者：
+3.1.  [朱浩瀚](http://zhuhaohan.com)（苹果公司）、
+3.2.  Xianrui Meng(Apple Inc)
+3.3.  George Killoos(Boston University)
+
+4. [原作者Git项目地址](https://github.com/zhuhaohan/NED)
+
 # NED:An Inter-Graph Node Metric Based on Edit Distance
 # 摘要：
           
